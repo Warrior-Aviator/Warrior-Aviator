@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an undergrad student puursuing Bachelors in Computer Science and Engineering.
+I am an undergrad student pursuing Bachelors in Computer Science and Engineering.
 
 
 - 🌱 I’m currently learning Python and AI/ML concepts
